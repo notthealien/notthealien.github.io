@@ -1,0 +1,20 @@
+<html>
+    <head><title>notthealien on GitHub</title></head>
+    <body>
+        <header>
+            <h1>notthealien on GitHub</h1>
+        </header>
+
+        <h3>current projects and ideas</h3>
+        <dl>
+            <td>Tracker:</td>
+                <dd>A tool to track winnings</dd>
+            <br/>
+            <td>Coding:</td>
+                <dd>list of primitive data types</dd>
+        </dl>
+        </p>
+
+        
+    </body>
+</html>
